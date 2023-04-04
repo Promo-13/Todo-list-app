@@ -1,5 +1,6 @@
 Play football.
 Throw the ball.
-Mop the floor.Sweep.
+Mop the floor.
 Vacuum.
 Buy.
+Clean the room.
